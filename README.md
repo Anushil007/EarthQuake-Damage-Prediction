@@ -42,7 +42,7 @@ You can predict the house grade as **_normaluser_** and also as **_profesionalus
 Open model_training.ipynb where we have trained a RandomForest model for earthquake damage prediction. 
 
 ## Developers:
-- Anish Shilpakar
-- Anup Kafle
-- Anushil Timsina
-- Rochak Sedai
+- [Anish Shilpakar](https://github.com/JuJu2181)
+- [Anup Kafle](https://github.com/anupkafle)
+- [Anushil Timsina](https://github.com/Anushil007)
+- [Rochak Sedai](https://github.com/RochakSedai)
